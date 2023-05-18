@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "lib": ["esnext", "dom"],
+        "module": "commonjs",
+        "esModuleInterop": true
+    },
+    "include": ["**/*"],
+    "ts-node": {
+        "transpileOnly": true
+    }
+}
