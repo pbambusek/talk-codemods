@@ -2707,9 +2707,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"kodemod@npm:1.0.0":
-  version: 1.0.0
-  resolution: "kodemod@npm:1.0.0"
+"kodemod@npm:1.0.2":
+  version: 1.0.2
+  resolution: "kodemod@npm:1.0.2"
   dependencies:
     "@babel/core": 7.21.8
     "@babel/plugin-syntax-typescript": 7.21.4
@@ -2720,7 +2720,7 @@ __metadata:
     yargs: 17.7.2
   bin:
     kodemod: dist/index.js
-  checksum: fd6ca8a80593f1e2d351ba75b76b7a2cfcbe208378f94ece90e49d1c9f739a1fd85fff5053fa9bc68add9cac52936ecc19209c3c8d0568ae543770e2ba31a061
+  checksum: cf1532c0dba711406978db51bcd4f5afe7ff7624eda993bf950dba49d9dc7ccc87a307af3178d5ba2b6bd18abd19d23a7015c1234876384215fb8d50223e184d
   languageName: node
   linkType: hard
 
@@ -3541,7 +3541,7 @@ __metadata:
     "@babel/plugin-syntax-typescript": 7.21.4
     "@codemod/cli": 2.3.2
     "@types/babel__core": 7.20.0
-    kodemod: 1.0.0
+    kodemod: 1.0.2
     ts-node: 10.9.1
     typescript: 5.0.4
   languageName: unknown

@@ -1,15 +1,15 @@
 {
-  "name": "talk-codemods",
-  "packageManager": "yarn@3.5.1",
-  "dependencies": {
-    "@babel/cli": "7.21.5",
-    "@babel/core": "7.21.8",
-    "@babel/generator": "7.21.5",
-    "@babel/plugin-syntax-typescript": "7.21.4",
-    "@codemod/cli": "2.3.2",
-    "@types/babel__core": "7.20.0",
-    "kodemod": "1.0.0",
-    "ts-node": "10.9.1",
-    "typescript": "5.0.4"
-  }
+    "name": "talk-codemods",
+    "packageManager": "yarn@3.5.1",
+    "dependencies": {
+        "@babel/cli": "7.21.5",
+        "@babel/core": "7.21.8",
+        "@babel/generator": "7.21.5",
+        "@babel/plugin-syntax-typescript": "7.21.4",
+        "@codemod/cli": "2.3.2",
+        "@types/babel__core": "7.20.0",
+        "kodemod": "1.0.2",
+        "ts-node": "10.9.1",
+        "typescript": "5.0.4"
+    }
 }
